@@ -1956,7 +1956,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #8cc9f0;
+			background-color: #32a8bd;
 			color: #ffffff !important;
 			box-shadow: none;
 		}
@@ -1974,7 +1974,7 @@ input, select, textarea {
 			input[type="button"].primary:active,
 			button.primary:active,
 			.button.primary:active {
-				background-color: #7ec3ee;
+				background-color: #04598d;
 			}
 
 			input[type="submit"].primary.icon:before,
