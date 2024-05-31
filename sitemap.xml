@@ -1,20 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
 
 <url>
   <loc>https://ebdox.github.io/</loc>
-  <lastmod>2024-05-09T03:54:43+00:00</lastmod>
+  <lastmod>2024-05-31T07:28:56+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
+  <loc>https://ebdox.github.io/Blog.html</loc>
+  <lastmod>2024-05-31T07:28:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://ebdox.github.io/Desafios-de-Seguran%C3%A7a-Cibern%C3%A9tica.html</loc>
-  <lastmod>2024-05-09T03:54:43+00:00</lastmod>
+  <lastmod>2024-05-31T07:28:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ebdox.github.io/Ebdox-Exchange-Um-Compromisso-com-a-Seguran%C3%A7a.html</loc>
-  <lastmod>2024-05-09T03:54:43+00:00</lastmod>
+  <lastmod>2024-05-31T07:28:56+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ebdox.github.io/Alerta-Fraudes-de-Phishing-Causam-Perdas-de-173-Milh%C3%B5es.html</loc>
+  <lastmod>2024-05-31T07:28:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ebdox.github.io/Como-se-prevenir-de-fraudes-por-falsos-atendentes-e-proteger-seus-ativos-digitais.html</loc>
+  <lastmod>2024-05-31T07:28:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ebdox.github.io/7-Common-Cryptocurrency-Scams-How-to-Avoid-Them.html</loc>
+  <lastmod>2024-05-31T07:28:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ebdox.github.io/Novas-Tend%C3%AAncias-no-Mercado-Cripto-ap%C3%B3s-a-Aprova%C3%A7%C3%A3o-do-ETF-de-Ethereum.html</loc>
+  <lastmod>2024-05-31T07:28:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ebdox.github.io/2023-Ebdox-Crescimento-Exponencial.html</loc>
+  <lastmod>2024-05-31T07:28:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ebdox.github.io/2022-Ebdox-Foco-no-Usu%C3%A1rio-em-Mudan%C3%A7a.html</loc>
+  <lastmod>2024-05-31T07:28:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ebdox.github.io/2021-da-Ebdox-Ruptura-e-Crescimento.html</loc>
+  <lastmod>2024-05-31T07:28:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ebdox.github.io/2020-da-Ebdox-Crescimento-e-Inova%C3%A7%C3%A3o.html</loc>
+  <lastmod>2024-05-31T07:28:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ebdox.github.io/Ebdox-Lideran%C3%A7a-Global-em-2019.html</loc>
+  <lastmod>2024-05-31T07:28:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ebdox.github.io/Criptomoedas-2018-Ebdox-Emergente.html</loc>
+  <lastmod>2024-05-31T07:28:56+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
